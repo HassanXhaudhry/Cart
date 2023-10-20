@@ -1,0 +1,42 @@
+/* *{ */
+    /* font-family: 'Kanit', sans-serif; */
+    /* font-family: 'Montserrat', sans-serif; */
+    /* font-family: 'Raleway', sans-serif; */
+    /* font-family: 'Source Sans 3', sans-serif; */
+/* } */
+*{
+    margin: 0;
+   padding: 0;
+}
+
+.light-theme{
+    --clr:#111b20;
+    --nav-bar:#fff;
+    --nav-font-clr:#111b20;
+    --para-clr:#333;
+    --btn-bg-clr:#111b20;
+    --btn-clr:#fff;
+    --btn-text-clr:#fff;
+    --bg-clr:#fff;
+    --inp-bg: #c9cbcb;
+    --bg-clr-2:#c9cbcb;
+    --bg-clr-3:#fff;
+    --heading:#09bef0;
+    --shadow: rgba(16, 16, 16, 0.374);
+}
+.dark-theme{
+    --clr:#fff;
+    --nav-bar:#111b20;
+    --nav-font-clr:#fff;
+    --para-clr: #fff;
+    --btn-bg-clr: #fff;
+    --btn-clr:#111b20;
+    --btn-bgr: #5f99be;
+    --btn-text-clr:#fff;
+    --bg-clr:#111b20;
+    --inp-bg: #c9cbcb;
+    --bg-clr-2:#1c2930;
+    --bg-clr-3:#c9cbcb;
+    --heading:#09bef0;
+    --shadow: rgba(227, 227, 227, 0.416);
+}
